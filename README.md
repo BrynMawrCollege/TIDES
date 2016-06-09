@@ -6,7 +6,7 @@ It has become critical that STEM higher education reform efforts broaden the par
 
 Bryn Mawr College was awarded funding to build computational modules for the physical sciences for use in major's curriculum that will enhance underrepresented STEM student interest and to develop materials to support faculty in their adoption of culturally sensitive pedagogies needed to sustain the necessary changes in practice required for relevant and inclusive STEM teaching.
 
-#Materials for Computational Learning in Physics
+##Materials for Computational Learning in Physics
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/BrynMawrCollege/TIDES)
 
 Learning Modules are in the pdf folder, and the related IPython notebooks are in the notebooks folder. Please feel free to download and use any of our materials. A good starting place is the Module Dependency Tree which displays how the modules are sequenced. 
@@ -17,7 +17,7 @@ First, please open and read the document [INTRODUCTION to the Modules](https://g
 
 Second, please fill out and return to emcccorma@brynmawr.edu the "Module User Feedback Form" in the pdf folder. We'd deeply appreciate it, as will our funders!
 
-# Additional Resources
+###Additional Resources
 
 * [Priniciple Investigators](http://blendedlearning.blogs.brynmawr.edu/category/tides-team/)
 * [Enhancing Computation and Information Science Learning Opportunities for Women Leaders in STEM](http://blendedlearning.blogs.brynmawr.edu/tides/) - project description
