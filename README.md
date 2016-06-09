@@ -9,11 +9,11 @@ Bryn Mawr College was awarded funding to 1) build instruction modules for comput
 ###Materials for Computational Skill Development in Physics
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/BrynMawrCollege/TIDES)
 
-Learning Modules are in the pdf folder, and the related IPython notebooks are in the notebooks folder. Please feel free to download and use any of the materials. A good starting place is the Module Dependency Tree which displays how the modules are sequenced. 
+Learning Modules are in the pdf folder, and the related IPython notebooks are in the notebook folder. Please feel free to download and use any of the materials. A good starting place is the Module Dependency Tree which displays how the modules are sequenced. 
 
 If you do use the materials, we have two requests. 
 
-First, please open and read the document [INTRODUCTION to the Modules](https://github.com/BrynMawrCollege/TIDES/raw/master/pdf/INTRODUCTION_to_the_Modules.pdf). It gives an overview of the project and the documents provided here. An important part of the project has been to use pedagogical approaches that encourage and support the success of students with diverse backgrounds and experience of computation.  Toward that end we have created and provide here, resources for conducting a Faculty Workshop on Increasing Diversity and Equity in STEM on your own campus. Please make use of these materials with your colleagues.
+First, please open and read the document [INTRODUCTION to the Modules](https://github.com/BrynMawrCollege/TIDES/raw/master/pdf/INTRODUCTION_to_the_Modules.pdf). It gives an overview of the project and the documents provided here. An important part of the project has been to use pedagogical approaches that encourage and support the success of students with diverse backgrounds and experience of computation.  Toward that end we have created and provided resources for conducting a Faculty Workshop on Increasing Diversity and Equity in STEM on your own campus. Please make use of these materials with your colleagues.
 
 Second, please fill out and return to emcccorma@brynmawr.edu the "Module User Feedback Form" in the pdf folder. We'd deeply appreciate it, as will our funders!
 
