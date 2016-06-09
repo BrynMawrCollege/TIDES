@@ -1,4 +1,4 @@
-##Enhancing Computation and Information Science Learning Opportunities for Women Leaders in STEM
+###Enhancing Computation and Information Science Learning Opportunities for Women Leaders in STEM
 
 Through a generous $4.9M grant from the Leona M. and Harry B. Helmsley Charitable Trust, AAC&U has launched its newest STEM initiative, Teaching to Increase Diversity and Equity in STEM (TIDES). The overall goal of the initiative is to increase the learning outcomes and retention of students historically underrepresented in the computer/information sciences and related STEM disciplines.  
 
@@ -6,7 +6,7 @@ It has become critical that STEM higher education reform efforts broaden the par
 
 Bryn Mawr College was awarded funding to build computational modules for the physical sciences for use in major's curriculum that will enhance underrepresented STEM student interest and to develop materials to support faculty in their adoption of culturally sensitive pedagogies needed to sustain the necessary changes in practice required for relevant and inclusive STEM teaching.
 
-##Materials for Computational Learning in Physics
+###Materials for Computational Learning in Physics
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/BrynMawrCollege/TIDES)
 
 Learning Modules are in the pdf folder, and the related IPython notebooks are in the notebooks folder. Please feel free to download and use any of our materials. A good starting place is the Module Dependency Tree which displays how the modules are sequenced. 
@@ -17,7 +17,7 @@ First, please open and read the document [INTRODUCTION to the Modules](https://g
 
 Second, please fill out and return to emcccorma@brynmawr.edu the "Module User Feedback Form" in the pdf folder. We'd deeply appreciate it, as will our funders!
 
-###Additional Resources
+####Additional Resources
 
 * [Priniciple Investigators](http://blendedlearning.blogs.brynmawr.edu/category/tides-team/)
 * [Enhancing Computation and Information Science Learning Opportunities for Women Leaders in STEM](http://blendedlearning.blogs.brynmawr.edu/tides/) - project description
