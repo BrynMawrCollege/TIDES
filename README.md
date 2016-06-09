@@ -1,4 +1,4 @@
-# TIDES Materials for Physics and Computation
+# Teaching to Increase Diversity and Equity in STEM (TIDES) Materials for Computational Learning in Physics
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/BrynMawrCollege/TIDES)
 
@@ -8,7 +8,7 @@ If you do use the materials, we have two requests.
 
 First, please fill out and return to emcccorma@brynmawr.edu the "Module User Feedback Form" in the pdf folder. We'd deeply appreciate it, as will our funders!
 
-Second, please open and read the document [INTRODUCTION to the Modules](https://github.com/BrynMawrCollege/TIDES/raw/master/pdf/INTRODUCTION_to_the_Modules.pdf). It gives an overview of the project and the documents provided here. An important part of the project has been to use pedagogical approaches that encourage and support the success of students with diverse backgrounds and experience of computation.  Toward that end we have created and provide here materials for a Faculty Workshop on Increasing Diversity and Equity in STEM.
+Second, please open and read the document [INTRODUCTION to the Modules](https://github.com/BrynMawrCollege/TIDES/raw/master/pdf/INTRODUCTION_to_the_Modules.pdf). It gives an overview of the project and the documents provided here. An important part of the project has been to use pedagogical approaches that encourage and support the success of students with diverse backgrounds and experience of computation.  Toward that end we have created and provide here, resources for conducting a Faculty Workshop on Increasing Diversity and Equity in STEM on your own campus.
 
 ## Resources
 
