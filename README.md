@@ -4,7 +4,7 @@ Through a generous $4.9M grant from the Leona M. and Harry B. Helmsley Charitabl
 
 It has become critical that STEM higher education reform efforts broaden the participation of women and underrepresented minorities, who not only represent a rich source of talent, but are also the fastest growing populations in undergraduate higher education. Recent data have identified that the most advanced mechanism for broadening the participation, retention and graduation of underrepresented groups in the STEM fields is not just significant pedagogical reform, but pedagogical reform that is culturally sensitive to the lived experiences of these populations. 
 
-Bryn Mawr College was awarded funding to 1) build computational instruction modules for the physical sciences that enhance underrepresented STEM student interest and retention and 2) develop materials to support faculty in their adoption of culturally sensitive pedagogies needed to sustain the necessary changes in practice required for inclusive teaching.
+Bryn Mawr College was awarded funding to 1) build instruction modules for computation in the physical sciences that enhance underrepresented STEM student interest and retention and 2) develop materials to support faculty in their adoption of culturally sensitive pedagogies needed to sustain the necessary changes in practice required for inclusive teaching.
 
 ###Materials for Computational Skill Development in Physics
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/BrynMawrCollege/TIDES)
@@ -21,4 +21,4 @@ Second, please fill out and return to emcccorma@brynmawr.edu the "Module User Fe
 
 * [Priniciple Investigators](http://blendedlearning.blogs.brynmawr.edu/category/tides-team/)
 * [Enhancing Computation and Information Science Learning Opportunities for Women Leaders in STEM](http://blendedlearning.blogs.brynmawr.edu/tides/) - project description
-* [Feature Article in Association of American Colleges and Universities](https://www.aacu.org/diversitydemocracy/2015/spring/mack)
+* [Featured by the Association of American Colleges and Universities](https://www.aacu.org/diversitydemocracy/2015/spring/mack)
