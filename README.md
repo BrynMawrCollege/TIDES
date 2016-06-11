@@ -24,6 +24,6 @@ Second, please fill out and return to emcccorma@brynmawr.edu the "Module User Fe
 
 ####Run the modules
 
-Thanks to the [mybinder.org](http://mybinder.org) servive, you can read the modules, execute the code, and generally explore the materials. Simply click on the following button to launch a Jupyter notebook in your browser, while running the code on a remote server:
+Thanks to the [mybinder.org](http://mybinder.org) service, you can read the modules, execute the code, and generally explore the materials live, right now. Simply click on the following button to launch a [Jupyter notebook](http://jupyter.org/) in your browser, while running the code on a remote server:
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/BrynMawrCollege/TIDES)
