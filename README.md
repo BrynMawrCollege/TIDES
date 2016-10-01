@@ -18,7 +18,10 @@ Second, please fill out and return to emcccorma@brynmawr.edu the "Module User Fe
 
 ####Additional Resources
 
-* [Priniciple Investigators](http://blendedlearning.blogs.brynmawr.edu/category/tides-team/)
+* Priniciple Investigators
+  * [Elizabeth McCormack](http://www.brynmawr.edu/physics/EMcCormack/)
+  * [Mark Matlin](http://www.brynmawr.edu/physics/MMatlin/)
+  * [Douglas Blank](http://cs.brynmawr.edu/~dblank/)
 * [Enhancing Computation and Information Science Learning Opportunities for Women Leaders in STEM](http://blendedlearning.blogs.brynmawr.edu/tides/) - project description
 * [Featured by the Association of American Colleges and Universities](https://www.aacu.org/diversitydemocracy/2015/spring/mack)
 
