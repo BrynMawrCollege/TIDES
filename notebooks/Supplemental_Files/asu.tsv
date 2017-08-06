@@ -1,0 +1,52 @@
+#				
+#   VizieR Astronomical Server vizier.cfa.harvard.edu				
+#    Date: 2017-06-16T23:33:22 [V1.99+ (14-Oct-2013)]				
+"#   In case of problem, please report to:"	cds-question@unistra.fr			
+#				
+#				
+#Coosys	J2000:	eq_FK5 J2000		
+#INFO	votable-version=1.99+ (14-Oct-2013)			
+#INFO	#NAME?			
+#INFO	#NAME?			
+#INFO	queryParameters=11			
+#-oc.form=dec				
+#-out.max=50				
+#-out.all=2				
+#-order=I				
+#-out.src=J/A+A/529/A134/table1				
+#-nav=cat:J/A+A/529/A134&tab:{J/A+A/529/A134/table1}&key:kw.cat=17270117&HTTPPRM:&&-ref=VIZ594469da6821&-out.max=50&-out.form=HTML Table&-oc.form=sexa&-order=I&-out=HJD&-out=RV&-out=e_RV&-file=.&-meta.ucd=2&-meta=1&-meta.foot=1&-usenav=1&-bmark=POST&-out.src=J/A+A/529/A134/table1				
+#-source=J/A+A/529/A134/table1				
+#-order=I				
+#-out=HJD				
+#-out=RV				
+#-out=e_RV				
+#				
+				
+#RESOURCE=yCat_35290134				
+#Name: J/A+A/529/A134				
+"#Title: Velocity curve of {alpha} Arietis (Lee+, 2011)"				
+#Table	J_A_A_529_A134_table1:			
+#Name: J/A+A/529/A134/table1				
+#Title: Radial velocity of alpha Ari \vizContent{timeSerie}(\vGraph{J/A+A/529/A134}{}{velocity curve})				
+#Column	HJD	(F14.6)	Heliocentric Julian date of the observation	[ucd=time.epoch]
+#Column	RV	(F5.1)	Radial velocity	[ucd=spect.dopplerVeloc;pos.heliocentric]
+#Column	e_RV	(F4.1)	Standard error of RV	[ucd=stat.error]
+HJD	RV	e_RV		
+ 	m/s	m/s		
+--------------	-----	----		
+A	2452948.109	8.4	6	
+D	2452948.112	3.9	6.4	
+C	2452948.114	6.2	5.9	
+A	2452948.116	5.6	5.8	
+B	2452948.118	13.6	5.9	
+A	2452948.119	10.6	5.9	
+C	2452948.121	5.4	6	
+D	2452948.123	6.4	6.5	
+D	2452948.124	12.2	6.3	
+C	2452948.126	17.1	6.2	
+A	2452948.128	14	6.9	
+B	2452948.13	7	6.6	
+B	2452948.131	9.8	6.2	
+C	2452948.133	7.5	6.5	
+B	2452948.134	11	6.2	
+B	2452948.136	9.6	6.6	
