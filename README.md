@@ -1,6 +1,4 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dschaffner/TIDES/master)
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/dschaffner/TIDES/master
 
 ### Enhancing Computation and Information Science Learning Opportunities for Women Leaders in STEM
 
