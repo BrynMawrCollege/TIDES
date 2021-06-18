@@ -1,3 +1,7 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dschaffner/TIDES/master)
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/dschaffner/TIDES/master
+
 ### Enhancing Computation and Information Science Learning Opportunities for Women Leaders in STEM
 
 Through a generous $4.9M grant from the Leona M. and Harry B. Helmsley Charitable Trust, AAC&U has launched its newest STEM initiative, Teaching to Increase Diversity and Equity in STEM (TIDES). The overall goal of the initiative is to increase the learning outcomes and retention of students historically underrepresented in the computer/information sciences and related STEM disciplines.  
