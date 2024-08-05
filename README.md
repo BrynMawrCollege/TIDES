@@ -8,7 +8,7 @@ Bryn Mawr College was awarded funding to 1) build instruction modules for comput
 
 ### Materials for Computational Skill Development in Physics
 
-Learning Modules are in the pdf folder, and the related IPython notebooks are in the notebook folder. Please feel free to download and use any of the materials. A good starting place is the Module Dependency Tree which displays how the modules are sequenced. 
+The IPython notebooks are in the notebook folder. Please feel free to download and use any of the materials. A good starting place is the Module Dependency Tree (in this folder) which displays how the modules are sequenced. 
 
 If you do use the materials, we have two requests. 
 
@@ -19,9 +19,10 @@ Second, please fill out and return to mmatlin@brynmawr.edu the "Module User Feed
 #### Additional Resources
 
 * Priniciple Investigators
-  * [Elizabeth McCormack](http://www.brynmawr.edu/physics/EMcCormack/)
+  * [Elizabeth McCormack](https://www.bowdoin.edu/profiles/faculty/emccorma/index.html)
   * [Mark Matlin](http://www.brynmawr.edu/physics/MMatlin/)
-  * [Douglas Blank](http://cs.brynmawr.edu/~dblank/)
+  * [Douglas Blank]
+  * ([Jennifer Spohrer](https://www.brynmawr.edu/inside/people/jennifer-spohrer) contributed to the development of the Faculty Workshop)
 * [Enhancing Computation and Information Science Learning Opportunities for Women Leaders in STEM](http://blendedlearning.blogs.brynmawr.edu/tides/) - project description
 * [Featured by the Association of American Colleges and Universities](https://www.aacu.org/diversitydemocracy/2015/spring/mack)
 
